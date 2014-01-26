@@ -1,0 +1,14 @@
+Email Spoofing & Filter Tests
+r1ddl3r
+
+Must install sendmail and have it running
+
+spoofertest.php - run single spoofed email
+spoofertest2.0.php - automated spoof tests
+filtertest.php - tests email filter controls
+
+requires phpmailer:
+class.phpmailer.php
+
+found here: 
+https://code.google.com/a/apache-extras.org/p/phpmailer/source/browse/trunk/class.phpmailer.php

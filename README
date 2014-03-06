@@ -12,3 +12,7 @@ class.phpmailer.php
 
 found here: 
 https://code.google.com/a/apache-extras.org/p/phpmailer/source/browse/trunk/class.phpmailer.php
+or
+https://github.com/PHPMailer/PHPMailer
+
+ensure sendmail and your server is configured properly
